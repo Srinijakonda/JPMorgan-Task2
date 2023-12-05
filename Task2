@@ -109,4 +109,7 @@ index ec1430e..ddd4d55 100644
 +      elem.setAttribute('aggregates', '{"stock":"distinct count","top_ask_price":"avg","top_bid_price":"avg","timestamp":"distinct count"}');
      }
    }
+
+-- 
+2.17.1
  
